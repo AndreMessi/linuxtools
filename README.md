@@ -5,6 +5,9 @@
 
 <p>scan connected device when hotspot is running on PC </p>
 
+<h3>Command to install on Linux</h3>
+<pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/hotspotscan -O /usr/bin/hotspotscan && sudo chmod 755 /usr/bin/hotspotscan </pre>
+
 <h2>adminpanel</h2> 
 
 <p>admin panel finder</p>
