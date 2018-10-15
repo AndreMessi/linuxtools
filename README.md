@@ -4,7 +4,9 @@
 hotspotscan: scan connected device when hotspot is running on PC 
 
 
-adminpanel: admin panel finder
+<h2>adminpanel:</h2> 
+
+<p>admin panel finder</p>
 
 command to install on Linux:
 <pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/adminpanel -O /usr/bin/adminpanel && sudo chmod 755 /usr/bin/adminpanel </pre>
