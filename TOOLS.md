@@ -8,10 +8,13 @@ Burp Suite
 
 arachni
 
+Zenmap (nmap)
+
 # spider
 
 Blackwidow
 
+# RCE
 
 # open redirect:
 
@@ -32,9 +35,14 @@ knockpy
 
 clickjacktest
 
+# SQLi
+
+sqlmap
+
 # XSS:
 
 xsspy
+injectX
 
 # CORS:
 
