@@ -16,5 +16,10 @@
 <h3>Command to install on Linux</h3>
 <pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/addfile -O /usr/bin/addfile && sudo chmod 755 /usr/bin/addfile </pre>
 
+<h2>sortliveurl</h2> 
+<p>take a list and sort all existing urls in the list and write it in another file.</p>
+<h3>Command to install on Linux</h3>
+<pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/sortliveurl -O /usr/bin/sortliveurl && sudo chmod 755 /usr/bin/sortliveurl </pre>
+
 
 
