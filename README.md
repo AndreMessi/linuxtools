@@ -21,5 +21,10 @@
 <h3>Command to install on Linux</h3>
 <pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/sortliveurl -O /usr/bin/sortliveurl && sudo chmod 755 /usr/bin/sortliveurl </pre>
 
+<h2>clickjacktest</h2> 
+<p>tool to test clickjacking on a long list of links.</p>
+<h3>Command to install on Linux</h3>
+<pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/clickjacktest -O /usr/bin/clickjacktest && sudo chmod 755 /usr/bin/clickjacktest </pre>
+
 
 
