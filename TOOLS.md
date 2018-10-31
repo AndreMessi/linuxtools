@@ -6,6 +6,13 @@ Owasp ZAP
 
 Burp Suite
 
+arachni
+
+# spider
+
+Blackwidow
+
+
 # open redirect:
 
 # CSRF
