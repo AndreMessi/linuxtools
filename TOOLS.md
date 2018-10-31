@@ -8,6 +8,9 @@ Burp Suite
 
 # open redirect:
 
+# CSRF
+
+# host header injection
 
 # Subdomain takeover:
 
