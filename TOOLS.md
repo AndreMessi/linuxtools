@@ -6,6 +6,18 @@ Owasp ZAP
 
 Burp Suite
 
+# open redirect:
+
+
+# Subdomain takeover:
+
+Sublist3r
+
+Aquatone
+
+knockpy
+
+
 # Clickjack:
 
 clickjacktest
