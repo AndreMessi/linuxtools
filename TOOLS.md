@@ -1,4 +1,4 @@
-#Full:
+# Full:
 
 Vega
 
@@ -6,19 +6,19 @@ Owasp ZAP
 
 Burp Suite
 
-#Clickjack:
+# Clickjack:
 
 clickjacktest
 
-#XSS:
+# XSS:
 
 xsspy
 
-#CORS:
+# CORS:
 
-#LFI:
+# LFI:
 
 fimap
 
-#RFI:
+# RFI:
 
