@@ -16,8 +16,7 @@ br.set_handle_robots(False)
 br.set_handle_refresh(False)
 
 payloads = ['<svg "ons>', '" onfocus="alert(1);', 'javascript:alert(1)']
-blacklist = ['.png', '.jpg', '.jpeg', '.mp3', '.mp4', '.avi', '.gif', '.svg',
-             '.pdf']
+blacklist = ['.png', '.jpg', '.jpeg', '.mp3', '.mp4', '.avi', '.gif', '.svg', '.pdf']
 xssLinks = []            # TOTAL CROSS SITE SCRIPTING FINDINGS
 
 
@@ -46,13 +45,13 @@ print color.BOLD + color.RED + """
                   #       Zishan Ahamed Thandar       #
 """ + color.END
 print color.BOLD + color.YELLOW + """
-Usage: XsSCan.py -u website.com (Not www.website.com OR http://www.website.com)
-Comprehensive Scan: python XsSCan.py -u website.com -e
-Verbose logging: python XsSCan.py -u website.com -v
-Cookies: python XsSCan.py -u website.complex -c name=val name=val
+Usage: xsspy -u website.com (Not www.website.com OR http://www.website.com)
+Comprehensive Scan: python xsspy -u website.com -e
+Verbose logging: python xsspy -u website.com -v
+Cookies: python xsspy -u website.complex -c name=val name=val
 """ + color.END
 print color.BOLD + color.BLUE + """
-Description: XsSCan is a python tool for finding Cross Site Scripting
+Description: Xsspy is a python tool for finding Cross Site Scripting
 vulnerabilities in websites. This tool is the first of its kind.
 Instead of just checking one page as most of the tools do, this tool
 traverses the website and find all the links and subdomains first.
