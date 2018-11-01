@@ -26,7 +26,7 @@ nf = "sort"+textfile
 print "\nResults will be saved to:\n"+nf+"\n"
 with open(textfile, "r") as ins:
 	for line in ins:
-		link = "http://"+line.strip('http://').strip('https://')
+		link = line.strip('http://').strip('https://')
 		try:
 			f2 = open(nf, "a")
 			re = urllib.urlopen(link)
