@@ -26,5 +26,10 @@
 <h3>Command to install on Linux</h3>
 <pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/clickjacktest -O /usr/bin/clickjacktest && sudo chmod 755 /usr/bin/clickjacktest </pre>
 
+<h2>xsspy</h2> 
+<p>tool to scan xss automatically.</p>
+<h3>Command to install on Linux</h3>
+<pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/xsspy -O /usr/bin/xsspy && sudo chmod 755 /usr/bin/xsspy </pre>
+
 
 
