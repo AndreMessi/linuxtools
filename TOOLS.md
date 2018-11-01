@@ -42,6 +42,7 @@ sqlmap
 # XSS:
 
 xsspy
+
 injectX
 
 # CORS:
@@ -49,6 +50,8 @@ injectX
 # LFI:
 
 fimap
+
+LFISuite
 
 # RFI:
 
