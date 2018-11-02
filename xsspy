@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-
-# code inspired by github.com/The404Hacking/xsSCan and github.com/faizann24/XssPy
 import mechanize
 import sys
 import httplib
