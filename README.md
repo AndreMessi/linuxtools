@@ -36,5 +36,10 @@
 <h3>Command to install on Linux</h3>
 <pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/sitemap2list -O /usr/bin/sitemap2list && sudo chmod 755 /usr/bin/sitemap2list </pre>
 
+<h2>links2inputfield</h2> 
+<p>Find input fields in list of links and save them in a output file.</p>
+<h3>Command to install on Linux</h3>
+<pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/links2inputfield -O /usr/bin/links2inputfield && sudo chmod 755 /usr/bin/links2inputfield </pre>
+
 
 
