@@ -45,6 +45,10 @@ xsspy
 
 injectX
 
+XSStrike
+
+XSS Radar
+
 # CORS:
 
 # LFI:
