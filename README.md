@@ -2,7 +2,7 @@
 
 Some tools I used on my linux.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ZishanAdThandar/linuxtools/tree/master">
     <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
         alt="Branch">
