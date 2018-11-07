@@ -3,7 +3,7 @@
 Some tools I used on my linux.
 
 <p align="center">
-  <a href="https://github.com/trimstray/awesome-ninja-admins/tree/master">
+  <a href="https://github.com/ZishanAdThandar/linuxtools/tree/master">
     <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
         alt="Branch">
   </a>
