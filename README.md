@@ -1,5 +1,22 @@
 # linuxtools
 
+Some tools I used on my linux.
+
+<p align="center">
+  <a href="https://github.com/trimstray/awesome-ninja-admins/tree/master">
+    <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
+        alt="Branch">
+  </a>
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg"
+        alt="Awesome">
+  </a>
+  <a href="http://www.gnu.org/licenses/">
+    <img src="https://img.shields.io/badge/License-GNU-blue.svg?longCache=true"
+        alt="License">
+  </a>
+</p>
+
 
 <h2>hotspotscan</h2> 
 <p>scan connected device when hotspot is running on PC </p>
