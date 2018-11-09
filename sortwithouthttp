@@ -27,7 +27,7 @@ print "\nResults will be saved to:\n"+nf+"\n"
 with open(textfile, "r") as ins:
 	for line in ins:
 		link = line.strip('http://').strip('https://')
-		f2 = open(nf, "a")
-		sites = link
-		f2.write(str(sites))
-		f2.close()
+		sites = sites+link
+f2 = open(nf, "w")
+f2.write(str(sites))
+f2.close()
