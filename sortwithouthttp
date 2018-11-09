@@ -28,6 +28,8 @@ with open(textfile, "r") as ins:
 	for line in ins:
 		link = line.strip('http://').strip('https://')
 		sites = sites+link
+		print link
+print sites
 f2 = open(nf, "w")
 f2.write(str(sites))
 f2.close()
