@@ -59,4 +59,9 @@ Some tools I used on my linux.
 <pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/links2inputfield -O /usr/bin/links2inputfield && sudo chmod 755 /usr/bin/links2inputfield </pre>
 
 
+<h2>sortwithouthttp</h2> 
+<p>Remove http and https from url and save.</p>
+<h3>Command to install on Linux</h3>
+<pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/sortwithouthttp -O /usr/bin/sortwithouthttp && sudo chmod 755 /usr/bin/sortwithouthttp </pre>
+
 
