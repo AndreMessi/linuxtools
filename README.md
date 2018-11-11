@@ -63,4 +63,9 @@ Some tools I used on my linux.
 <h3>Command to install on Linux</h3>
 <pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/links2inputfield -O /usr/bin/links2inputfield && sudo chmod 755 /usr/bin/links2inputfield </pre>
 
+<h2>gitbuster</h2> 
+<p>Gitbuster to check .git folder is open to all or accesable for public.</p>
+<h3>Command to install on Linux</h3>
+<pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/gitbuster -O /usr/bin/gitbuster && sudo chmod 755 /usr/bin/gitbuster </pre>
+
 
