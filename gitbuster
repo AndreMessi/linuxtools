@@ -20,7 +20,7 @@ filename=sys.argv[1]
 with open(filename) as f:
     lines = f.readlines()
 
-print ("Inputfile:", filename)
+print ("Input file:", filename)
 outfile = filename.split(".")[0] + "_result.txt"
 fp = open(outfile, 'a')
 
