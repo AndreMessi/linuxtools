@@ -53,6 +53,11 @@ Some tools I used on my linux.
 <h3>Command to install on Linux</h3>
 <pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/xsspy -O /usr/bin/xsspy && sudo chmod 755 /usr/bin/xsspy </pre>
 
+<h2>xssaminer</h2> 
+<p>tool to scan xss on files.</p>
+<h3>Command to install on Linux</h3>
+<pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/xssaminer -O /usr/bin/xssaminer && sudo chmod 755 /usr/bin/xssaminer </pre>
+
 <h2>sitemap2list</h2> 
 <p>Convert xml sitemap to list of links.</p>
 <h3>Command to install on Linux</h3>
