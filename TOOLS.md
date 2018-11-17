@@ -52,6 +52,8 @@ XSS Radar
 
 # CORS:
 
+# SSRF:
+
 # LFI:
 
 fimap
