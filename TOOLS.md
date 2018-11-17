@@ -28,8 +28,9 @@ Sublist3r
 
 Aquatone
 
-knockpy
+knockpy | `pip3 install knockpy`
 
+Amass | `go get -u github.com/OWASP/Amass`
 
 # Clickjack:
 
