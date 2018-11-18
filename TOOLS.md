@@ -10,11 +10,17 @@ arachni
 
 Zenmap (nmap)
 
+Extrar: Golismero, Grabber
+
 # spider
 
 Blackwidow
 
 # RCE
+
+# XXE
+
+XXER | https://github.com/TheTwitchy/xxer
 
 # open redirect:
 
@@ -26,7 +32,7 @@ Blackwidow
 
 Sublist3r
 
-Aquatone
+Aquatone | https://github.com/michenriksen/aquatone/releases/
 
 knockpy | `pip3 install knockpy`
 
