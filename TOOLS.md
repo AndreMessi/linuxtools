@@ -10,17 +10,27 @@ arachni
 
 Zenmap (nmap)
 
-Extrar: Golismero, Grabber
+Extra: Golismero, Grabber
+
+# Subdomain Enumeration
+
+curl -s "http://web.archive.org/cdx/search/cdx?url=*.hackerone.com/*&output=text&fl=original&collapse=urlkey" |sort| sed -e 's_https*://__' -e "s/\/.*//" -e 's/:.*//' -e 's/^www\.//' | uniq
+
+Sublist3r | https://github.com/aboul3la/Sublist3r
+
+Amass | `go get -u github.com/OWASP/Amass`
+
+# Subdomain takeover:
+
+subdomain-takeover | https://github.com/antichown/subdomain-takeover
+
+Aquatone | https://github.com/michenriksen/aquatone/releases/  not working on latest feature
+
+knockpy | `pip3 install knockpy`
 
 # spider
 
 Blackwidow
-
-# RCE
-
-# XXE
-
-XXER | https://github.com/TheTwitchy/xxer
 
 # open redirect:
 
@@ -29,16 +39,6 @@ Open Redirect Scanner | https://github.com/ak1t4/open-redirect-scanner
 # CSRF
 
 # host header injection
-
-# Subdomain takeover:
-
-Sublist3r | https://github.com/aboul3la/Sublist3r
-
-Aquatone | https://github.com/michenriksen/aquatone/releases/  not working on latest feature
-
-knockpy | `pip3 install knockpy`
-
-Amass | `go get -u github.com/OWASP/Amass`
 
 # Clickjack:
 
@@ -69,4 +69,10 @@ fimap
 LFISuite
 
 # RFI:
+
+# RCE
+
+# XXE
+
+XXER | https://github.com/TheTwitchy/xxer
 
