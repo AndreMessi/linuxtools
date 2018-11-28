@@ -24,15 +24,17 @@ XXER | https://github.com/TheTwitchy/xxer
 
 # open redirect:
 
+Open Redirect Scanner | https://github.com/ak1t4/open-redirect-scanner
+
 # CSRF
 
 # host header injection
 
 # Subdomain takeover:
 
-Sublist3r
+Sublist3r | https://github.com/aboul3la/Sublist3r
 
-Aquatone | https://github.com/michenriksen/aquatone/releases/
+Aquatone | https://github.com/michenriksen/aquatone/releases/  not working on latest feature
 
 knockpy | `pip3 install knockpy`
 
