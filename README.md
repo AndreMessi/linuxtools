@@ -73,4 +73,9 @@ Some tools I used on my linux.
 <h3>Command to install on Linux</h3>
 <pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/gitbuster -O /usr/bin/gitbuster && sudo chmod 755 /usr/bin/gitbuster </pre>
 
+<h2>takeover</h2> 
+<p>takeover to check subdomain takeoverof given subdomain list.</p>
+<h3>Command to install on Linux</h3>
+<pre> sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/takeover -O /usr/bin/takeover && sudo chmod 755 /usr/bin/takeover </pre>
+
 
