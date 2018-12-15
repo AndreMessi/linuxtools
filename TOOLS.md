@@ -32,6 +32,8 @@ Aquatone | https://github.com/michenriksen/aquatone/releases/  not working on la
 
 knockpy | `pip3 install knockpy`
 
+takeover | https://github.com/ZishanAdThandar/linuxtools
+
 # spider
 
 Blackwidow
@@ -54,7 +56,7 @@ sqlmap
 
 # XSS:
 
-xsspy
+xsspy | https://github.com/ZishanAdThandar/linuxtools
 
 injectX
 
