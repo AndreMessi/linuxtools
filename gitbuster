@@ -21,7 +21,7 @@ with open(filename) as f:
     lines = f.readlines()
 
 print ("Input file:", filename)
-outfile = filename.split(".")[0] + "_result.txt"
+outfile = filename.split(".")[0] + "gitresult.txt"
 fp = open(outfile, 'a')
 
 def main():
