@@ -32,7 +32,7 @@ def main():
 			flink="http://"+line.split('\n')[0]+"/.git/"
 			print(flink, end =" ")  
 			try:
-				r = requests.head(flink)
+				r = requests.head(flink, timeout=5)
 				if r.status_code == 200:
 					print (' found')
 					output=flink+'\n'
