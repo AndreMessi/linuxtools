@@ -34,6 +34,10 @@ knockpy | `pip3 install knockpy`
 
 takeover | https://github.com/ZishanAdThandar/linuxtools
 
+# AWS
+
+Bucket Finder https://digi.ninja/projects/bucket_finder.php
+
 # spider
 
 Blackwidow
