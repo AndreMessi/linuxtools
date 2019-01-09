@@ -95,6 +95,8 @@ XXER | https://github.com/TheTwitchy/xxer
    Steghide http://steghide.sourceforge.net/download.php 
    Stegcracker https://github.com/Paradoxis/StegCracker
    Stegsolve http://www.caesum.com/handbook/stego.htm
+   OpenStego https://github.com/syvaidya/openstego/releases
+   
 
 
 
