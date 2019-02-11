@@ -46,7 +46,7 @@ print color.BOLD + color.RED + """
                   #       Zishan Ahamed Thandar       #
 """ + color.END
 print color.BOLD + color.YELLOW + """
-Usage: xsspy -u website.com (Not www.website.com OR http://www.website.com)
+Usage: xsspy -u http://website.com (full url Not www.website.com or website.com)
 Comprehensive Scan: python xsspy -u website.com -e
 Verbose logging: python xsspy -u website.com -v
 Cookies: python xsspy -u website.complex -c name=val name=val
@@ -112,21 +112,6 @@ def initializeAndFind():
     color.log(logging.INFO, color.GREEN, 'Doing a short traversal.')
     for url in allURLS:
         smallurl = str(url)
-    # Test HTTPS/HTTP compatibility. Prefers HTTPS but defaults to
-    # HTTP if any errors are encountered
-        try:
-            test = httplib.HTTPSConnection(smallurl)
-            test.request("GET", "/")
-            response = test.getresponse()
-            if (response.status == 200) | (response.status == 302):
-                url = "https://www." + str(url)
-            elif response.status == 301:
-                loc = response.getheader('Location')
-                url = loc.scheme + '://' + loc.netloc
-            else:
-                url = "http://www." + str(url)
-        except:
-            url = "http://www." + str(url)
         try:
             br.open(url)
             for cookie in results.cookies:
