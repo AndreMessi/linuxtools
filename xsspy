@@ -34,19 +34,19 @@ class color:
 
 
 print color.BOLD + color.RED + """
-		 _     _               _ _ _       _     
-		| |   (_)             (_) | |     | |    
-		| |__  _ ___ _ __ ___  _| | | __ _| |__  
-		| '_ \| / __| '_ ` _ \| | | |/ _` | '_ \ 
+		 _     _               _ _ _       _
+		| |   (_)             (_) | |     | |
+		| |__  _ ___ _ __ ___  _| | | __ _| |__
+		| '_ \| / __| '_ ` _ \| | | |/ _` | '_ \
 		| |_) | \__ \ | | | | | | | | (_| | | | |
 		|_.__/|_|___/_| |_| |_|_|_|_|\__,_|_| |_|
-                                         
+
                   #     +++ xsspy modified v1 +++     #
 		  #             faizann24             #
                   #       Zishan Ahamed Thandar       #
 """ + color.END
 print color.BOLD + color.YELLOW + """
-Usage: xsspy -u http://website.com (full url Not www.website.com or website.com)
+Usage: xsspy -u https://website.com (Not www.website.com OR website.com)
 Comprehensive Scan: python xsspy -u website.com -e
 Verbose logging: python xsspy -u website.com -v
 Cookies: python xsspy -u website.complex -c name=val name=val
