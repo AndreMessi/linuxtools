@@ -28,7 +28,7 @@ Amass | `go get -u github.com/OWASP/Amass`
 
 subdomain-takeover | https://github.com/antichown/subdomain-takeover
 
-Aquatone | https://github.com/michenriksen/aquatone/releases/  not working on latest feature
+Aquatone | https://github.com/michenriksen/aquatone/releases/  not working on latest feature `go get github.com/michenriksen/aquatone`
 
 knockpy | `pip3 install knockpy`
 
@@ -40,7 +40,7 @@ Bucket Finder https://digi.ninja/projects/bucket_finder.php
 
 # spider
 
-Blackwidow
+Blackwidow 
 
 # open redirect:
 
@@ -52,7 +52,7 @@ Open Redirect Scanner | https://github.com/ak1t4/open-redirect-scanner
 
 # Clickjack:
 
-clickjacktest
+clickjacktest https://github.com/ZishanAdThandar/linuxtools
 
 # SQLi
 
@@ -92,6 +92,12 @@ XXER | https://github.com/TheTwitchy/xxer
 
 
 
+
+# Wordlists
+
+1. fuzzdb https://github.com/fuzzdb-project/fuzzdb
+2. PayloadsAllTheThings https://github.com/swisskyrepo/PayloadsAllTheThings 
+3. SecLists https://github.com/danielmiessler/SecLists
 
 # CTF
 
