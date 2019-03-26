@@ -14,7 +14,7 @@ Extra: Golismero, Grabber
 
 # Enumeration
 
-Gobuster https://github.com/OJ/gobuster
+Gobuster `go get github.com/OJ/gobuster`
 
 # Subdomain Enumeration
 
