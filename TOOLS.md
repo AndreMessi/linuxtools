@@ -114,5 +114,10 @@ XXER | https://github.com/TheTwitchy/xxer
 4. OpenStego https://github.com/syvaidya/openstego/releases
    
 
+# LINUX (UBUNTU)
+
+1. htop RAM and CPU monitor 
+
+2. hotspotscan https://github.com/ZishanAdThandar/linuxtools
 
 
