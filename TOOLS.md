@@ -120,4 +120,5 @@ XXER | https://github.com/TheTwitchy/xxer
 
 2. hotspotscan https://github.com/ZishanAdThandar/linuxtools
 
+3. TILIX terminal https://gnunn1.github.io/tilix-web/ installation commands (https://blog.programster.org/ubuntu-16-04-install-terminix)
 
