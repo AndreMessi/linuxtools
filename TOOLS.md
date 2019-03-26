@@ -102,13 +102,16 @@ XXER | https://github.com/TheTwitchy/xxer
 2. PayloadsAllTheThings https://github.com/swisskyrepo/PayloadsAllTheThings 
 3. SecLists https://github.com/danielmiessler/SecLists
 
+
+<hr>
+
 # CTF
 
-1. Stego
-   Steghide http://steghide.sourceforge.net/download.php 
-   Stegcracker https://github.com/Paradoxis/StegCracker
-   Stegsolve http://www.caesum.com/handbook/stego.htm
-   OpenStego https://github.com/syvaidya/openstego/releases
+# Stego
+1. Steghide http://steghide.sourceforge.net/download.php 
+2. Stegcracker https://github.com/Paradoxis/StegCracker
+3. Stegsolve http://www.caesum.com/handbook/stego.htm
+4. OpenStego https://github.com/syvaidya/openstego/releases
    
 
 
