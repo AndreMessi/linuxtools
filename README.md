@@ -18,8 +18,10 @@ Some tools I used on my linux.
 </p>
 
 
+#Files and commands to install them:
 
 <code>
+  
 #hotspotscan:  scan connected device when hotspot is running on PC  
 
 sudo wget https://raw.githubusercontent.com/ZishanAdThandar/linuxtools/master/hotspotscan -O /usr/bin/hotspotscan && sudo chmod 755 /usr/bin/hotspotscan 
