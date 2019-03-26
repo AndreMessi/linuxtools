@@ -10,6 +10,10 @@ arachni
 
 Zenmap (nmap)
 
+WPScan
+
+droopescan
+
 Extra: Golismero, Grabber
 
 # Enumeration
@@ -56,7 +60,7 @@ clickjacktest https://github.com/ZishanAdThandar/linuxtools
 
 # SQLi
 
-sqlmap
+sqlmap `pip3 install sqlmap`
 
 # XSS:
 
@@ -72,13 +76,12 @@ XSS Radar
 
 # SSRF:
 
-# LFI:
+# LFI and RFI:
 
 fimap https://github.com/kurobeats/fimap
 
 LFISuite https://github.com/D35m0nd142/LFISuite
 
-# RFI:
 
 # Template Injection:
 
