@@ -20,7 +20,7 @@ Gobuster `go get github.com/OJ/gobuster`
 
 curl -s "http://web.archive.org/cdx/search/cdx?url=*.hackerone.com/*&output=text&fl=original&collapse=urlkey" |sort| sed -e 's_https*://__' -e "s/\/.*//" -e 's/:.*//' -e 's/^www\.//' | uniq
 
-Sublist3r | https://github.com/aboul3la/Sublist3r
+Sublist3r | https://github.com/aboul3la/Sublist3r pip3 install sublist3r
 
 Amass | `go get -u github.com/OWASP/Amass`
 
@@ -74,11 +74,15 @@ XSS Radar
 
 # LFI:
 
-fimap
+fimap https://github.com/kurobeats/fimap
 
-LFISuite
+LFISuite https://github.com/D35m0nd142/LFISuite
 
 # RFI:
+
+# Template Injection:
+
+https://github.com/epinna/tplmap
 
 # RCE
 
