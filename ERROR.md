@@ -1,11 +1,12 @@
 GO Lang errors:
 
 Error:
+
 `package context: unrecognized import path "context" (import path does not begin with hostname)`
 
 Solution:
 
-`sudo apt-get purge golang*
+```sudo apt-get purge golang*
 
 sudo rm -rf /usr/lib/go-1.6/ /usr/lib/go-1.6/src/ /usr/lib/go-1.6/src/runtime/ /usr/lib/go-1.6/src/runtime/race
 
@@ -19,7 +20,8 @@ echo "export PATH=$PATH:$HOME/go/bin:/usr/local/go/bin" >> ~/.bashrc
 
 source ~/.bashrc
 
-go get github.com/go-sql-driver/mysql`
+go get github.com/go-sql-driver/mysql 
+```
 
 
 Solution Ref: https://github.com/golang/dep/issues/1985
