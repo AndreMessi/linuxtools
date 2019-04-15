@@ -21,6 +21,7 @@ dtparam=audio=on
 
 
 audio:
+
 amixer command `amixer cset numid=3 2`
 
 
